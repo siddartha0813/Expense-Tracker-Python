@@ -52,3 +52,12 @@ Shows all expenses for a chosen month and year.
 Exports all expenses into `expenses.csv`  
 You will see:# Expense-Tracker-Python
 A Python-based Expense Tracker with SQLite database, search, filter, edit, delete, sorting, monthly summary, and CSV export features.
+
+# Expense Tracker – Python
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-blueviolet)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
